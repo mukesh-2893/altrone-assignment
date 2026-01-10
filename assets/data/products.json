@@ -1,0 +1,985 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Headphones Pro",
+    "price": 2999,
+    "category": "Headphones",
+    "image": "https://images.unsplash.com/photo-1519671482749-fd09be7ccebf",
+    "description": "Premium wireless headphones with noise cancellation."
+  },
+  {
+    "id": 2,
+    "name": "Smart Watch Series X",
+    "price": 4999,
+    "category": "Wearables",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30",
+    "description": "Advanced fitness tracking smart watch. Advanced fitness tracking smart watch. Advanced fitness tracking smart watch. Advanced fitness tracking smart watch. Advanced fitness tracking smart watch."
+  },
+  {
+    "id": 3,
+    "name": "Bluetooth Earbuds Air",
+    "price": 1999,
+    "category": "Headphones",
+    "image": "https://images.unsplash.com/photo-1585386959984-a41552231693",
+    "description": "True wireless earbuds with clear sound."
+  },
+  {
+    "id": 4,
+    "name": "Gaming Headset X100",
+    "price": 3499,
+    "category": "Headphones",
+    "image": "https://images.unsplash.com/photo-1599669454699-248893623440",
+    "description": "Gaming headset with surround sound."
+  },
+  {
+    "id": 5,
+    "name": "Fitness Band Lite",
+    "price": 1599,
+    "category": "Wearables",
+    "image": "https://images.unsplash.com/photo-1579586337278-3befd40fd17a",
+    "description": "Fitness band with heart rate tracking."
+  },
+
+  {
+    "id": 6,
+    "name": "Laptop Backpack Pro",
+    "price": 2499,
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62",
+    "description": "Water-resistant laptop backpack."
+  },
+  {
+    "id": 7,
+    "name": "Wireless Mouse M20",
+    "price": 799,
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04",
+    "description": "Ergonomic wireless mouse."
+  },
+  {
+    "id": 8,
+    "name": "Mechanical Keyboard RGB",
+    "price": 3999,
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8",
+    "description": "RGB mechanical keyboard."
+  },
+  {
+    "id": 9,
+    "name": "USB-C Fast Charger",
+    "price": 699,
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1583863788434-e58a36330cf0",
+    "description": "Fast charging power adapter."
+  },
+  {
+    "id": 10,
+    "name": "Power Bank 20000mAh",
+    "price": 1799,
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1601944177325-f8867652837f",
+    "description": "High capacity power bank."
+  },
+
+  {
+    "id": 11,
+    "name": "Smart LED Bulb",
+    "price": 999,
+    "category": "Smart Home",
+    "image": "https://images.unsplash.com/photo-1581091870627-3cddbb1c3c33",
+    "description": "WiFi enabled smart bulb."
+  },
+  {
+    "id": 12,
+    "name": "Portable Bluetooth Speaker",
+    "price": 2299,
+    "category": "Speakers",
+    "image": "https://images.unsplash.com/photo-1587574293340-e0011c4e8ec3",
+    "description": "Portable speaker with deep bass."
+  },
+  {
+    "id": 13,
+    "name": "Smart Plug Mini",
+    "price": 899,
+    "category": "Smart Home",
+    "image": "https://images.unsplash.com/photo-1558002038-1055907df827",
+    "description": "Control appliances remotely."
+  },
+  {
+    "id": 14,
+    "name": "Laptop Cooling Pad",
+    "price": 1299,
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1618410321504-83f5f2a4c9b7",
+    "description": "Cooling pad with silent fans."
+  },
+  {
+    "id": 15,
+    "name": "Webcam HD 1080p",
+    "price": 2199,
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1593642634367-d91a135587b5",
+    "description": "HD webcam for video calls."
+  },
+
+  {
+    "id": 16,
+    "name": "Smart LED TV 43 Inch",
+    "price": 25999,
+    "category": "Television",
+    "image": "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1",
+    "description": "Full HD Smart LED TV."
+  },
+  {
+    "id": 17,
+    "name": "Streaming Stick 4K",
+    "price": 3499,
+    "category": "Television",
+    "image": "https://images.unsplash.com/photo-1589998059171-988d887df646",
+    "description": "4K Android streaming stick."
+  },
+  {
+    "id": 18,
+    "name": "DSLR Camera Bag",
+    "price": 1899,
+    "category": "Cameras",
+    "image": "https://images.unsplash.com/photo-1519183071298-a2962eadcdb2",
+    "description": "Padded camera protection bag."
+  },
+  {
+    "id": 19,
+    "name": "Action Camera 4K",
+    "price": 6999,
+    "category": "Cameras",
+    "image": "https://images.unsplash.com/photo-1508896694512-9a69f01d5f32",
+    "description": "Waterproof action camera."
+  },
+  {
+    "id": 20,
+    "name": "Tripod Stand Pro",
+    "price": 1499,
+    "category": "Cameras",
+    "image": "https://images.unsplash.com/photo-1502920514313-52581002a659",
+    "description": "Stable tripod for cameras."
+  },
+
+  {
+    "id": 21,
+    "name": "Noise Cancelling Earphones",
+    "price": 1799,
+    "category": "Headphones",
+    "image": "https://images.unsplash.com/photo-1585386959984-a41552231693",
+    "description": "In-ear noise cancelling earphones."
+  },
+  {
+    "id": 22,
+    "name": "Wireless Neckband",
+    "price": 1299,
+    "category": "Headphones",
+    "image": "https://images.unsplash.com/photo-1606220838315-056192d5e927",
+    "description": "Neckband with long battery life."
+  },
+  {
+    "id": 23,
+    "name": "Smart Door Bell",
+    "price": 3999,
+    "category": "Smart Home",
+    "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914",
+    "description": "Video doorbell with motion detection."
+  },
+  {
+    "id": 24,
+    "name": "Home Security Camera",
+    "price": 4599,
+    "category": "Smart Home",
+    "image": "https://images.unsplash.com/photo-1558002038-1055907df827",
+    "description": "Indoor smart security camera."
+  },
+  {
+    "id": 25,
+    "name": "Smart Thermostat",
+    "price": 6999,
+    "category": "Smart Home",
+    "image": "https://images.unsplash.com/photo-1581092795360-fd1ca04f0952",
+    "description": "Energy efficient smart thermostat."
+  },
+
+  {
+    "id": 26,
+    "name": "Wireless Keyboard Slim",
+    "price": 1899,
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8",
+    "description": "Slim wireless keyboard."
+  },
+  {
+    "id": 27,
+    "name": "Laptop Sleeve 15 Inch",
+    "price": 999,
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f",
+    "description": "Protective laptop sleeve."
+  },
+  {
+    "id": 28,
+    "name": "External Hard Drive 1TB",
+    "price": 4599,
+    "category": "Storage",
+    "image": "https://images.unsplash.com/photo-1589998059171-988d887df646",
+    "description": "Portable external hard drive."
+  },
+  {
+    "id": 29,
+    "name": "USB Flash Drive 64GB",
+    "price": 699,
+    "category": "Storage",
+    "image": "https://images.unsplash.com/photo-1589998059171-988d887df646",
+    "description": "High speed USB drive."
+  },
+  {
+    "id": 30,
+    "name": "SSD External 512GB",
+    "price": 6499,
+    "category": "Storage",
+    "image": "https://images.unsplash.com/photo-1611078489935-0cb964de46d6",
+    "description": "Fast portable SSD."
+  },
+
+  {
+    "id": 31,
+    "name": "Gaming Mouse RGB",
+    "price": 1499,
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04",
+    "description": "RGB gaming mouse."
+  },
+  {
+    "id": 32,
+    "name": "Gaming Chair Pro",
+    "price": 12999,
+    "category": "Gaming",
+    "image": "https://images.unsplash.com/photo-1598550481268-3a2c8e2b7f5b",
+    "description": "Ergonomic gaming chair."
+  },
+  {
+    "id": 33,
+    "name": "Game Controller Wireless",
+    "price": 2499,
+    "category": "Gaming",
+    "image": "https://images.unsplash.com/photo-1606813907291-d86efa9b94db",
+    "description": "Wireless game controller."
+  },
+  {
+    "id": 34,
+    "name": "VR Headset Lite",
+    "price": 7999,
+    "category": "Gaming",
+    "image": "https://images.unsplash.com/photo-1593508512255-86ab42a8e620",
+    "description": "Immersive VR headset."
+  },
+  {
+    "id": 35,
+    "name": "Gaming Desk",
+    "price": 8999,
+    "category": "Gaming",
+    "image": "https://images.unsplash.com/photo-1598550476439-6847785fcea6",
+    "description": "Spacious gaming desk."
+  },
+
+  {
+    "id": 36,
+    "name": "Smartphone Stand",
+    "price": 499,
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1586953208448-b95a79798f07",
+    "description": "Adjustable phone stand."
+  },
+  {
+    "id": 37,
+    "name": "Car Mobile Charger",
+    "price": 899,
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1583863788434-e58a36330cf0",
+    "description": "Fast charging car charger."
+  },
+  {
+    "id": 38,
+    "name": "Wireless Car Mount",
+    "price": 1499,
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1518444028785-8f8f6e28df41",
+    "description": "Dashboard phone holder."
+  },
+  {
+    "id": 39,
+    "name": "Bluetooth FM Transmitter",
+    "price": 1199,
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1518444028785-8f8f6e28df41",
+    "description": "Car Bluetooth FM transmitter."
+  },
+  {
+    "id": 40,
+    "name": "Dash Camera HD",
+    "price": 5499,
+    "category": "Cameras",
+    "image": "https://images.unsplash.com/photo-1607082348824-0a96f2a4f4b3",
+    "description": "HD dash camera for cars."
+  },
+
+  {
+    "id": 41,
+    "name": "Smart Refrigerator Mini",
+    "price": 18999,
+    "category": "Appliances",
+    "image": "https://images.unsplash.com/photo-1586201375761-83865001e31c",
+    "description": "Compact smart refrigerator."
+  },
+  {
+    "id": 42,
+    "name": "Air Purifier Pro",
+    "price": 9999,
+    "category": "Appliances",
+    "image": "https://images.unsplash.com/photo-1586201375761-83865001e31c",
+    "description": "HEPA air purifier."
+  },
+  {
+    "id": 43,
+    "name": "Robot Vacuum Cleaner",
+    "price": 17999,
+    "category": "Appliances",
+    "image": "https://images.unsplash.com/photo-1581574209701-8f0bb3b5a59b",
+    "description": "Smart robotic vacuum."
+  },
+  {
+    "id": 44,
+    "name": "Induction Cooktop",
+    "price": 3499,
+    "category": "Appliances",
+    "image": "https://images.unsplash.com/photo-1607082349566-187342175e2f",
+    "description": "Energy efficient cooktop."
+  },
+  {
+    "id": 45,
+    "name": "Electric Kettle",
+    "price": 1499,
+    "category": "Appliances",
+    "image": "https://images.unsplash.com/photo-1607082349566-187342175e2f",
+    "description": "Quick boil electric kettle."
+  },
+
+  {
+    "id": 46,
+    "name": "Smart Washing Machine",
+    "price": 28999,
+    "category": "Appliances",
+    "image": "https://images.unsplash.com/photo-1586201375761-83865001e31c",
+    "description": "Fully automatic washing machine."
+  },
+  {
+    "id": 47,
+    "name": "Microwave Oven",
+    "price": 8999,
+    "category": "Appliances",
+    "image": "https://images.unsplash.com/photo-1607082349566-187342175e2f",
+    "description": "Convection microwave oven."
+  },
+  {
+    "id": 48,
+    "name": "Coffee Maker",
+    "price": 5999,
+    "category": "Appliances",
+    "image": "https://images.unsplash.com/photo-1511920170033-f8396924c348",
+    "description": "Automatic coffee machine."
+  },
+  {
+    "id": 49,
+    "name": "Electric Blender",
+    "price": 2499,
+    "category": "Appliances",
+    "image": "https://images.unsplash.com/photo-1607082349566-187342175e2f",
+    "description": "High speed blender."
+  },
+  {
+    "id": 50,
+    "name": "Smart Toaster",
+    "price": 1999,
+    "category": "Appliances",
+    "image": "https://images.unsplash.com/photo-1607082349566-187342175e2f",
+    "description": "Smart bread toaster."
+  },
+
+  {
+    "id": 51,
+    "name": "Fitness Dumbbells Set",
+    "price": 2999,
+    "category": "Fitness",
+    "image": "https://images.unsplash.com/photo-1583454110551-21f2fa2afe61",
+    "description": "Adjustable dumbbell set."
+  },
+  {
+    "id": 52,
+    "name": "Yoga Mat Premium",
+    "price": 1299,
+    "category": "Fitness",
+    "image": "https://images.unsplash.com/photo-1599058917212-d750089bc07b",
+    "description": "Non-slip yoga mat."
+  },
+  {
+    "id": 53,
+    "name": "Treadmill Foldable",
+    "price": 35999,
+    "category": "Fitness",
+    "image": "https://images.unsplash.com/photo-1599058917212-d750089bc07b",
+    "description": "Compact home treadmill."
+  },
+  {
+    "id": 54,
+    "name": "Exercise Bike",
+    "price": 14999,
+    "category": "Fitness",
+    "image": "https://images.unsplash.com/photo-1599058917212-d750089bc07b",
+    "description": "Indoor cycling bike."
+  },
+  {
+    "id": 55,
+    "name": "Resistance Bands Set",
+    "price": 899,
+    "category": "Fitness",
+    "image": "https://images.unsplash.com/photo-1599058917212-d750089bc07b",
+    "description": "Full body workout bands."
+  },
+
+  {
+    "id": 56,
+    "name": "Smart Water Bottle",
+    "price": 2499,
+    "category": "Wearables",
+    "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8",
+    "description": "Tracks water intake."
+  },
+  {
+    "id": 57,
+    "name": "Sleep Tracker Ring",
+    "price": 8999,
+    "category": "Wearables",
+    "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8",
+    "description": "Smart sleep tracking ring."
+  },
+  {
+    "id": 58,
+    "name": "AR Smart Glasses",
+    "price": 29999,
+    "category": "Wearables",
+    "image": "https://images.unsplash.com/photo-1593508512255-86ab42a8e620",
+    "description": "Augmented reality glasses."
+  },
+  {
+    "id": 59,
+    "name": "GPS Running Watch",
+    "price": 15999,
+    "category": "Wearables",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30",
+    "description": "GPS enabled sports watch."
+  },
+  {
+    "id": 60,
+    "name": "Kids Smart Watch",
+    "price": 3999,
+    "category": "Wearables",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30",
+    "description": "Smart watch for kids."
+  },
+
+  {
+    "id": 61,
+    "name": "Wireless Router Dual Band",
+    "price": 2999,
+    "category": "Networking",
+    "image": "https://images.unsplash.com/photo-1603791440384-56cd371ee9a7",
+    "description": "High speed WiFi router."
+  },
+  {
+    "id": 62,
+    "name": "WiFi Range Extender",
+    "price": 1999,
+    "category": "Networking",
+    "image": "https://images.unsplash.com/photo-1603791440384-56cd371ee9a7",
+    "description": "Boost WiFi coverage."
+  },
+  {
+    "id": 63,
+    "name": "Network Switch 8 Port",
+    "price": 2499,
+    "category": "Networking",
+    "image": "https://images.unsplash.com/photo-1603791440384-56cd371ee9a7",
+    "description": "Ethernet network switch."
+  },
+  {
+    "id": 64,
+    "name": "LAN Cable 20m",
+    "price": 499,
+    "category": "Networking",
+    "image": "https://images.unsplash.com/photo-1603791440384-56cd371ee9a7",
+    "description": "High speed LAN cable."
+  },
+  {
+    "id": 65,
+    "name": "USB WiFi Adapter",
+    "price": 799,
+    "category": "Networking",
+    "image": "https://images.unsplash.com/photo-1603791440384-56cd371ee9a7",
+    "description": "USB wireless adapter."
+  },
+
+  {
+    "id": 66,
+    "name": "Tablet 10 Inch",
+    "price": 15999,
+    "category": "Tablets",
+    "image": "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04",
+    "description": "10 inch Android tablet."
+  },
+  {
+    "id": 67,
+    "name": "Tablet Cover Case",
+    "price": 999,
+    "category": "Tablets",
+    "image": "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04",
+    "description": "Protective tablet cover."
+  },
+  {
+    "id": 68,
+    "name": "Stylus Pen",
+    "price": 1299,
+    "category": "Tablets",
+    "image": "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04",
+    "description": "Stylus for tablets."
+  },
+  {
+    "id": 69,
+    "name": "Graphic Drawing Tablet",
+    "price": 7499,
+    "category": "Tablets",
+    "image": "https://images.unsplash.com/photo-1593642634367-d91a135587b5",
+    "description": "Drawing tablet for designers."
+  },
+  {
+    "id": 70,
+    "name": "Tablet Keyboard Case",
+    "price": 2999,
+    "category": "Tablets",
+    "image": "https://images.unsplash.com/photo-1593642634367-d91a135587b5",
+    "description": "Keyboard case for tablets."
+  },
+
+  {
+    "id": 71,
+    "name": "Smart Light Strip",
+    "price": 1799,
+    "category": "Smart Home",
+    "image": "https://images.unsplash.com/photo-1581091870627-3cddbb1c3c33",
+    "description": "RGB smart LED strip."
+  },
+  {
+    "id": 72,
+    "name": "Smart Curtain Motor",
+    "price": 8999,
+    "category": "Smart Home",
+    "image": "https://images.unsplash.com/photo-1581091870627-3cddbb1c3c33",
+    "description": "Automated curtain system."
+  },
+  {
+    "id": 73,
+    "name": "Smart Smoke Detector",
+    "price": 2999,
+    "category": "Smart Home",
+    "image": "https://images.unsplash.com/photo-1581091870627-3cddbb1c3c33",
+    "description": "Fire alert smoke detector."
+  },
+  {
+    "id": 74,
+    "name": "Smart Door Lock",
+    "price": 15999,
+    "category": "Smart Home",
+    "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914",
+    "description": "Fingerprint smart door lock."
+  },
+  {
+    "id": 75,
+    "name": "Video Baby Monitor",
+    "price": 6999,
+    "category": "Smart Home",
+    "image": "https://images.unsplash.com/photo-1580587771525-78b9dba3b914",
+    "description": "Live baby monitoring camera."
+  },
+
+  {
+    "id": 76,
+    "name": "Office Chair Ergonomic",
+    "price": 10999,
+    "category": "Furniture",
+    "image": "https://images.unsplash.com/photo-1598550481268-3a2c8e2b7f5b",
+    "description": "Ergonomic office chair."
+  },
+  {
+    "id": 77,
+    "name": "Standing Desk",
+    "price": 18999,
+    "category": "Furniture",
+    "image": "https://images.unsplash.com/photo-1598550476439-6847785fcea6",
+    "description": "Height adjustable desk."
+  },
+  {
+    "id": 78,
+    "name": "Bookshelf Modern",
+    "price": 6999,
+    "category": "Furniture",
+    "image": "https://images.unsplash.com/photo-1598550476439-6847785fcea6",
+    "description": "Modern wooden bookshelf."
+  },
+  {
+    "id": 79,
+    "name": "Study Table Compact",
+    "price": 4999,
+    "category": "Furniture",
+    "image": "https://images.unsplash.com/photo-1598550476439-6847785fcea6",
+    "description": "Compact study table."
+  },
+  {
+    "id": 80,
+    "name": "Bedside Table",
+    "price": 2999,
+    "category": "Furniture",
+    "image": "https://images.unsplash.com/photo-1598550476439-6847785fcea6",
+    "description": "Wooden bedside table."
+  },
+
+  {
+    "id": 81,
+    "name": "Desk Lamp LED",
+    "price": 1299,
+    "category": "Lighting",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c",
+    "description": "Adjustable LED desk lamp."
+  },
+  {
+    "id": 82,
+    "name": "Floor Lamp Modern",
+    "price": 3999,
+    "category": "Lighting",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c",
+    "description": "Modern floor lamp."
+  },
+  {
+    "id": 83,
+    "name": "Ceiling Light Smart",
+    "price": 6999,
+    "category": "Lighting",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c",
+    "description": "Smart ceiling lighting."
+  },
+  {
+    "id": 84,
+    "name": "Outdoor Garden Light",
+    "price": 2499,
+    "category": "Lighting",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c",
+    "description": "Weatherproof garden lights."
+  },
+  {
+    "id": 85,
+    "name": "Night Lamp Kids",
+    "price": 899,
+    "category": "Lighting",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c",
+    "description": "Soft light night lamp."
+  },
+
+  {
+    "id": 86,
+    "name": "Smart Alarm Clock",
+    "price": 2499,
+    "category": "Smart Home",
+    "image": "https://images.unsplash.com/photo-1581091870627-3cddbb1c3c33",
+    "description": "Voice enabled alarm clock."
+  },
+  {
+    "id": 87,
+    "name": "Digital Wall Clock",
+    "price": 1499,
+    "category": "Home Decor",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c",
+    "description": "Large digital wall clock."
+  },
+  {
+    "id": 88,
+    "name": "Wall Photo Frame Set",
+    "price": 1999,
+    "category": "Home Decor",
+    "image": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f",
+    "description": "Decorative photo frames."
+  },
+  {
+    "id": 89,
+    "name": "Decorative Wall Art",
+    "price": 2999,
+    "category": "Home Decor",
+    "image": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f",
+    "description": "Modern wall art."
+  },
+  {
+    "id": 90,
+    "name": "Indoor Plant Pot",
+    "price": 899,
+    "category": "Home Decor",
+    "image": "https://images.unsplash.com/photo-1501004318641-b39e6451bec6",
+    "description": "Decorative plant pot."
+  },
+
+  {
+    "id": 91,
+    "name": "Electric Scooter",
+    "price": 54999,
+    "category": "Mobility",
+    "image": "https://images.unsplash.com/photo-1595433707802-6b2626ef1c91",
+    "description": "Eco-friendly electric scooter."
+  },
+  {
+    "id": 92,
+    "name": "Hoverboard Smart",
+    "price": 18999,
+    "category": "Mobility",
+    "image": "https://images.unsplash.com/photo-1595433707802-6b2626ef1c91",
+    "description": "Self balancing hoverboard."
+  },
+  {
+    "id": 93,
+    "name": "Electric Bicycle",
+    "price": 69999,
+    "category": "Mobility",
+    "image": "https://images.unsplash.com/photo-1595433707802-6b2626ef1c91",
+    "description": "Electric assisted bicycle."
+  },
+  {
+    "id": 94,
+    "name": "Car Vacuum Cleaner",
+    "price": 2999,
+    "category": "Mobility",
+    "image": "https://images.unsplash.com/photo-1607082348824-0a96f2a4f4b3",
+    "description": "Portable car vacuum."
+  },
+  {
+    "id": 95,
+    "name": "Tyre Pressure Monitor",
+    "price": 3999,
+    "category": "Mobility",
+    "image": "https://images.unsplash.com/photo-1607082348824-0a96f2a4f4b3",
+    "description": "Real-time tyre pressure display."
+  },
+
+  {
+    "id": 96,
+    "name": "Kids Learning Tablet",
+    "price": 5999,
+    "category": "Kids",
+    "image": "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04",
+    "description": "Educational tablet for kids."
+  },
+  {
+    "id": 97,
+    "name": "Remote Control Car",
+    "price": 2499,
+    "category": "Kids",
+    "image": "https://images.unsplash.com/photo-1606813907291-d86efa9b94db",
+    "description": "RC car with rechargeable battery."
+  },
+  {
+    "id": 98,
+    "name": "Building Blocks Set",
+    "price": 1999,
+    "category": "Kids",
+    "image": "https://images.unsplash.com/photo-1606813907291-d86efa9b94db",
+    "description": "Creative building blocks."
+  },
+  {
+    "id": 99,
+    "name": "Kids Smart Camera",
+    "price": 2999,
+    "category": "Kids",
+    "image": "https://images.unsplash.com/photo-1508896694512-9a69f01d5f32",
+    "description": "Camera designed for kids."
+  },
+  {
+    "id": 100,
+    "name": "Educational Robot Toy",
+    "price": 4999,
+    "category": "Kids",
+    "image": "https://images.unsplash.com/photo-1593508512255-86ab42a8e620",
+    "description": "STEM learning robot."
+  },
+
+  {
+    "id": 101,
+    "name": "Smart Notebook",
+    "price": 2499,
+    "category": "Office",
+    "image": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514",
+    "description": "Reusable smart notebook."
+  },
+  {
+    "id": 102,
+    "name": "Office Desk Organizer",
+    "price": 999,
+    "category": "Office",
+    "image": "https://images.unsplash.com/photo-1519337265831-281ec6cc8514",
+    "description": "Desk stationery organizer."
+  },
+  {
+    "id": 103,
+    "name": "Laser Printer",
+    "price": 15999,
+    "category": "Office",
+    "image": "https://images.unsplash.com/photo-1581091870627-3cddbb1c3c33",
+    "description": "High speed laser printer."
+  },
+  {
+    "id": 104,
+    "name": "All-in-One Printer",
+    "price": 9999,
+    "category": "Office",
+    "image": "https://images.unsplash.com/photo-1581091870627-3cddbb1c3c33",
+    "description": "Print, scan and copy."
+  },
+  {
+    "id": 105,
+    "name": "Paper Shredder",
+    "price": 5999,
+    "category": "Office",
+    "image": "https://images.unsplash.com/photo-1581091870627-3cddbb1c3c33",
+    "description": "Office paper shredder."
+  },
+
+  {
+    "id": 106,
+    "name": "Noise Cancelling Headset Pro",
+    "price": 8999,
+    "category": "Headphones",
+    "image": "https://images.unsplash.com/photo-1519671482749-fd09be7ccebf",
+    "description": "Professional noise cancelling headset."
+  },
+  {
+    "id": 107,
+    "name": "Studio Microphone USB",
+    "price": 7499,
+    "category": "Audio",
+    "image": "https://images.unsplash.com/photo-1590602846645-1471e8f47b8b",
+    "description": "USB condenser microphone."
+  },
+  {
+    "id": 108,
+    "name": "Sound Mixer Console",
+    "price": 12999,
+    "category": "Audio",
+    "image": "https://images.unsplash.com/photo-1590602846645-1471e8f47b8b",
+    "description": "Audio mixing console."
+  },
+  {
+    "id": 109,
+    "name": "Home Theatre System",
+    "price": 34999,
+    "category": "Audio",
+    "image": "https://images.unsplash.com/photo-1587574293340-e0011c4e8ec3",
+    "description": "5.1 surround sound system."
+  },
+  {
+    "id": 110,
+    "name": "Wireless Soundbar",
+    "price": 14999,
+    "category": "Audio",
+    "image": "https://images.unsplash.com/photo-1587574293340-e0011c4e8ec3",
+    "description": "Bluetooth soundbar."
+  },
+
+  {
+    "id": 111,
+    "name": "Portable Projector",
+    "price": 21999,
+    "category": "Entertainment",
+    "image": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f",
+    "description": "Mini HD projector."
+  },
+  {
+    "id": 112,
+    "name": "Projector Screen",
+    "price": 3999,
+    "category": "Entertainment",
+    "image": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f",
+    "description": "Foldable projector screen."
+  },
+  {
+    "id": 113,
+    "name": "Blu-ray Player",
+    "price": 7999,
+    "category": "Entertainment",
+    "image": "https://images.unsplash.com/photo-1589998059171-988d887df646",
+    "description": "Blu-ray disc player."
+  },
+  {
+    "id": 114,
+    "name": "Gaming Console",
+    "price": 44999,
+    "category": "Entertainment",
+    "image": "https://images.unsplash.com/photo-1606813907291-d86efa9b94db",
+    "description": "Next-gen gaming console."
+  },
+  {
+    "id": 115,
+    "name": "VR Motion Controllers",
+    "price": 8999,
+    "category": "Entertainment",
+    "image": "https://images.unsplash.com/photo-1593508512255-86ab42a8e620",
+    "description": "VR motion controllers."
+  },
+
+  {
+    "id": 116,
+    "name": "Smart Scale",
+    "price": 2499,
+    "category": "Health",
+    "image": "https://images.unsplash.com/photo-1583454110551-21f2fa2afe61",
+    "description": "Body composition scale."
+  },
+  {
+    "id": 117,
+    "name": "Digital BP Monitor",
+    "price": 2999,
+    "category": "Health",
+    "image": "https://images.unsplash.com/photo-1583454110551-21f2fa2afe61",
+    "description": "Blood pressure monitor."
+  },
+  {
+    "id": 118,
+    "name": "Pulse Oximeter",
+    "price": 1499,
+    "category": "Health",
+    "image": "https://images.unsplash.com/photo-1583454110551-21f2fa2afe61",
+    "description": "Oxygen saturation monitor."
+  },
+  {
+    "id": 119,
+    "name": "Infrared Thermometer",
+    "price": 1999,
+    "category": "Health",
+    "image": "https://images.unsplash.com/photo-1583454110551-21f2fa2afe61",
+    "description": "Contactless thermometer."
+  },
+  {
+    "id": 120,
+    "name": "Massage Gun Pro",
+    "price": 8999,
+    "category": "Health",
+    "image": "https://images.unsplash.com/photo-1583454110551-21f2fa2afe61",
+    "description": "Deep tissue massage gun."
+  }
+]
